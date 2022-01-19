@@ -1,0 +1,6 @@
+.brand-logo-cus{
+    /* margin-top: 15%;
+    margin-bottom: 5%; */
+    -webkit-animation: mover 2s infinite  alternate;
+    animation: mover 1s infinite  alternate;
+}
