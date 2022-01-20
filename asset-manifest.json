@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/thunder-organization/static/css/main.8dcdc42f.chunk.css",
+    "main.js": "/thunder-organization/static/js/main.72079203.chunk.js",
+    "main.js.map": "/thunder-organization/static/js/main.72079203.chunk.js.map",
+    "runtime-main.js": "/thunder-organization/static/js/runtime-main.5303b887.js",
+    "runtime-main.js.map": "/thunder-organization/static/js/runtime-main.5303b887.js.map",
+    "static/css/2.5859bfa1.chunk.css": "/thunder-organization/static/css/2.5859bfa1.chunk.css",
+    "static/js/2.a94011bd.chunk.js": "/thunder-organization/static/js/2.a94011bd.chunk.js",
+    "static/js/2.a94011bd.chunk.js.map": "/thunder-organization/static/js/2.a94011bd.chunk.js.map",
+    "static/js/3.6a8a9737.chunk.js": "/thunder-organization/static/js/3.6a8a9737.chunk.js",
+    "static/js/3.6a8a9737.chunk.js.map": "/thunder-organization/static/js/3.6a8a9737.chunk.js.map",
+    "index.html": "/thunder-organization/index.html",
+    "static/css/2.5859bfa1.chunk.css.map": "/thunder-organization/static/css/2.5859bfa1.chunk.css.map",
+    "static/css/main.8dcdc42f.chunk.css.map": "/thunder-organization/static/css/main.8dcdc42f.chunk.css.map",
+    "static/js/2.a94011bd.chunk.js.LICENSE.txt": "/thunder-organization/static/js/2.a94011bd.chunk.js.LICENSE.txt",
+    "static/media/avatar_2x.c927c103.png": "/thunder-organization/static/media/avatar_2x.c927c103.png",
+    "static/media/earth.521207c4.png": "/thunder-organization/static/media/earth.521207c4.png",
+    "static/media/font-awesome.css": "/thunder-organization/static/media/fa-solid-900.ce9aef17.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5303b887.js",
+    "static/css/2.5859bfa1.chunk.css",
+    "static/js/2.a94011bd.chunk.js",
+    "static/css/main.8dcdc42f.chunk.css",
+    "static/js/main.72079203.chunk.js"
+  ]
+}
