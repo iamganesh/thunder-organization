@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/thunder-organization/static/css/main.8dcdc42f.chunk.css",
-    "main.js": "/thunder-organization/static/js/main.72079203.chunk.js",
-    "main.js.map": "/thunder-organization/static/js/main.72079203.chunk.js.map",
+    "main.js": "/thunder-organization/static/js/main.c2adb91a.chunk.js",
+    "main.js.map": "/thunder-organization/static/js/main.c2adb91a.chunk.js.map",
     "runtime-main.js": "/thunder-organization/static/js/runtime-main.5303b887.js",
     "runtime-main.js.map": "/thunder-organization/static/js/runtime-main.5303b887.js.map",
     "static/css/2.5859bfa1.chunk.css": "/thunder-organization/static/css/2.5859bfa1.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.5859bfa1.chunk.css",
     "static/js/2.a94011bd.chunk.js",
     "static/css/main.8dcdc42f.chunk.css",
-    "static/js/main.72079203.chunk.js"
+    "static/js/main.c2adb91a.chunk.js"
   ]
 }
